@@ -49,7 +49,7 @@ Second-Year Computer Science Student @ St. Lawrence College
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=radical&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=radical&hide_border=true&background=FAFAFA&stroke=2AB7CA)
-## 🚀 Language Stack
+## 🚀 Most Used Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1st-%232AB7CA?logo=python&logoColor=white&style=for-the-badge" alt="Python">
