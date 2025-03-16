@@ -15,63 +15,51 @@ Second-Year Computer Science Student @ St. Lawrence College
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Sapkota-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-sapkota) 
-[![Medium](https://img.shields.io/badge/Medium-%40aayushsapkota-12100E?logo=medium&logoColor=white)](https://medium.com/@aayushsapkota1030) 
-[![Email](https://img.shields.io/badge/Email-aayush%40aayussh.com-D14836?logo=gmail&logoColor=white)](mailto:aayush@aayussh.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aayush_Sapkota-%230077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/aayush-sapkota) 
+[![Medium](https://img.shields.io/badge/Medium-%40aayushsapkota-12100E?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@aayushsapkota1030) 
+[![Email](https://img.shields.io/badge/Email-aayush%40aayussh.com-%23EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:aayush@aayussh.com)
 
 # 💻 Tech Stack:
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&color=%232AB7CA)
+![C++](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&color=%236C5B7B)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&color=%23F4A261)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&color=%23FFD700)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&color=%236C5B7B)
 
-### **Backend Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+### **Frameworks & Libraries**
+![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&color=%2344A08D)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&color=%2388D498)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&color=%23E94B3C)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vuedotjs&logoColor=white&color=%2344A08D)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59?logo=express&logoColor=%2361DAFB&color=%236C5B7B)
 
-### **Frontend Frameworks**
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+### **Databases & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&color=%232AB7CA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?logo=postgresql&logoColor=white&color=%2344A08D)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white&color=%232AB7CA)
+![Apache](https://img.shields.io/badge/Apache-%23D22128?logo=apache&logoColor=white&color=%23E94B3C)
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white)
+### **Tools**
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&color=%23F4A261)
+![Qt](https://img.shields.io/badge/Qt-%23217346?logo=qt&logoColor=white&color=%2344A08D)
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE?logo=insomnia&logoColor=white&color=%236C5B7B)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushSapkota&theme=dark&hide_border=true&layout=compact&langs_count=6&custom_title=Most%20Used%20Languages&card_width=445&order=1)
+![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=swift&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=swift&hide_border=true&background=FAFAFA&stroke=2AB7CA)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushSapkota&theme=swift&hide_border=true&layout=compact&langs_count=6&bg_color=FAFAFA&title_color=2AB7CA&hide=php&order=1)
 
 **Top Languages (By Usage):**  
 1. Python 2. C++ 3. Java 4. JavaScript
 
 ---
 
-### 🔝 Top Contribution
-![](https://github-contributor-stats.vercel.app/api?username=AayushSapkota&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 💡 Dynamic Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=random&theme=dark)
+### 💡 Dev Wisdom 
+![](https://quotes-github-readme.vercel.app/api?type=random&theme=swift&font=Noto%20Sans)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AayushSapkota&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-*✨ Proudly crafted with [GPRM](https://gprm.itsvg.in/). Let's connect and build something amazing!*
