@@ -49,8 +49,6 @@ Second-Year Computer Science Student @ St. Lawrence College
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=radical&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=radical&hide_border=true&background=FAFAFA&stroke=2AB7CA)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushSapkota&theme=radical&hide_border=true&layout=compact&langs_count=6&bg_color=FAFAFA&title_color=2AB7CA&hide=php&order=1)
-
 **Top Languages (By Usage):**  
 1. Python 2. C++ 3. Java 4. JavaScript
 
