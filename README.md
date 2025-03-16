@@ -49,8 +49,20 @@ Second-Year Computer Science Student @ St. Lawrence College
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=radical&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=radical&hide_border=true&background=FAFAFA&stroke=2AB7CA)
-**Top Languages (By Usage):**  
-1. Python 2. C++ 3. Java 4. JavaScript
+## 🚀 Language Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-1st-%232AB7CA?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/C++-2nd-%236C5B7B?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
+  <img src="https://img.shields.io/badge/Java-3rd-%23F4A261?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-4th-%23FFD700?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js&perline=4&theme=light" alt="Language icons">
+</div>
 
 ---
 
