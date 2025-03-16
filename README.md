@@ -25,7 +25,6 @@ Second-Year Computer Science Student @ St. Lawrence College
 ![C++](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white&color=%236C5B7B)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&color=%23F4A261)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&color=%23FFD700)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white&color=%236C5B7B)
 
 ### **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&color=%2344A08D)
@@ -48,9 +47,9 @@ Second-Year Computer Science Student @ St. Lawrence College
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=swift&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=swift&hide_border=true&background=FAFAFA&stroke=2AB7CA)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushSapkota&theme=swift&hide_border=true&layout=compact&langs_count=6&bg_color=FAFAFA&title_color=2AB7CA&hide=php&order=1)
+![](https://github-readme-stats.vercel.app/api?username=AayushSapkota&theme=radical&hide_border=true&bg_color=FAFAFA&title_color=2AB7CA&icon_color=44A08D&text_color=4A4A4A)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AayushSapkota&theme=radical&hide_border=true&background=FAFAFA&stroke=2AB7CA)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushSapkota&theme=radical&hide_border=true&layout=compact&langs_count=6&bg_color=FAFAFA&title_color=2AB7CA&hide=php&order=1)
 
 **Top Languages (By Usage):**  
 1. Python 2. C++ 3. Java 4. JavaScript
@@ -58,7 +57,7 @@ Second-Year Computer Science Student @ St. Lawrence College
 ---
 
 ### 💡 Dev Wisdom 
-![](https://quotes-github-readme.vercel.app/api?type=random&theme=swift&font=Noto%20Sans)
+![](https://quotes-github-readme.vercel.app/api?type=random&theme=radical&font=Noto%20Sans)
 
 ---
 
