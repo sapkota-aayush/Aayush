@@ -1,79 +1,18 @@
-# Aayush Sapkota  
-**🚀 Full-Stack Developer in Evolution | Bridging Low-Level Systems & High-Level Solutions**  
+# 💫 About Me:
+Aayush Sapkota<br>🚀 Full-Stack Developer | Future Solution Developer at Empire Life Insurance<br><br>LinkedIn<br>Medium Blog<br>All Links<br>About Me<br>I’m currently a second-year Computer Science student, passionate about expanding my skills and building real-world projects. I’m working towards becoming a full-stack developer, starting from the basics of C++ to mastering web technologies and databases. I’m also excited to be a Future Solution Developer at Empire Life Insurance, where I’ll be exploring innovative ways to integrate tech solutions into business processes.<br><br>Skills & Technologies<br>Category	Technologies<br>Languages	C++, Python, JavaScript, SQL<br>Frameworks	Qt, Django, nlohmann JSON<br>Databases	MySQL, SQLite<br>Tools	Docker, Git, Postman<br>Concepts	Object-Oriented Programming (OOP), REST APIs, Networking, Containerization<br>Projects I've Worked On<br>Vehicle Management System<br>An automotive service tracker built with C++ and SQLite. It allows users to manage service records with CRUD operations and provides an interactive user interface using Qt.<br><br>Book Management Application<br>A library management system that follows SOLID principles. This project demonstrates my understanding of object-oriented programming and file input/output (I/O) operations, offering a custom data persistence layer.<br><br>Insurance API<br>A Django-based API that allows for managing insurance policies, featuring JWT authentication and secure database integration for policy management.<br><br>Professional Development<br>I’m actively working on improving my public speaking and leadership skills as the Vice President of Membership at St. Lawrence College Toastmasters. I engage in weekly public speaking sessions to grow my communication skills and help others develop theirs as well.<br><br>Outside of Coding<br>I’m passionate about staying active and trying new things outside of my tech career:<br><br>🥊 Combat Sports Enthusiast<br>🎸 Guitar Player<br>⚽ Football Strategist<br>Looking Ahead<br>I'm continually refining my skills in full-stack development and excited about applying them in both my studies and future roles. As I prepare for my upcoming position at Empire Life Insurance, I aim to learn new technologies and contribute to solutions that make an impact.<br><br>GitHub Profile<br>Feel free to visit my GitHub to check out the code I’ve been working on!<br><br>"The expert in anything was once a beginner." – Helen Hayes<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aayush-sapkota)  
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aayushsapkota1030)  
-[![Linktree](https://img.shields.io/badge/All_Links-Linktree-green?style=flat)](https://linktr.ee/aayush1030)  
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Code+Journey+Roadmap+(Customize+With+Your+Own+Image)" alt="Development Journey">
-</div>  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aayush-sapkota) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aayushsapkota1030) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayush@aayussh.com) 
 
----
-
-## 🔭 **Technical Odyssey**  
-**C++ Foundation → OOP Mastery → Qt Desktop Apps → SQL Integration → API Development → Docker → Full-Stack Vision**  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aayush&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aayush&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Aayush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ **Technical Arsenal**  
-
-**🧠 Core Competencies**  
-
-| Category        | Technologies                                                 |
-|---------------|---------------------------------------------------------------|
-| **Languages**  | C++, Python, JavaScript, SQL                                 |
-| **Frameworks** | Qt, Django, nlohmann JSON                                   |
-| **Databases**  | MySQL, SQLite                                                |
-| **Tools**      | Docker, Git, Postman                                         |
-| **Concepts**   | OOP, REST APIs, Networking, Containerization                 |
-
----
-
-## 🚀 **Key Projects**  
-
-### [📌 Vehicle Management System](https://github.com/sapkota-aayush/Mr.Lube-Vehicle-Management)  
-**Tech Stack:** C++, Qt Framework, SQLite  
-✅ Automotive service tracking system with CRUD operations  
-✅ Integrated Qt widgets for UI/UX  
-
-### [📌 Book Management Application](https://github.com/sapkota-aayush/BookManagementApplication)  
-**Tech Stack:** C++, OOP Principles, File I/O  
-✅ Library management system demonstrating SOLID principles  
-✅ Custom data persistence layer  
-
-### [📌 Insurance API](https://github.com/sapkota-aayush/InsuranceAPI)  
-**Tech Stack:** Django, Python, REST  
-✅ JWT-authenticated insurance policy management  
-✅ Database-integrated endpoint architecture  
-
----
-
-## 🎙️ **Professional Development**  
-
-**Toastmasters International**  
-📢 Vice President of Membership @ St. Lawrence Toastmasters  
-🎤 Weekly public speaking engagements  
-🛠 Leadership in membership development  
-
----
-
-## 🎸 **Beyond Code**  
-- 🥊 **Combat Sports Enthusiast**  
-- 🎸 **Guitar Practitioner**  
-- ⚽ **Football Strategist**  
-
----
-
-## 📈 **Learning Trajectory**  
-
-**Current Focus:**  
-📌 **Docker Mastery** → `60%`  
-📌 **Advanced API Design** → `45%`  
-📌 **Cloud Integration** → `30%`  
-
----
-
-[![Visitors](https://komarev.com/ghpvc/?username=sapkota-aayush&label=Profile+Views&color=blue&style=flat)](https://github.com/sapkota-aayush)  
-
-> _"The expert in anything was once a beginner." - Helen Hayes_  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
