@@ -58,8 +58,8 @@
 
 ---
 
-<div align="center">
+<div align="center" style="background-color: #f5e6d3; padding: 20px; border-radius: 10px;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Toastmaster+Public+Speaker;Open+Source+Contributor;Curious+and+confused&center=true&size=20&color=4f3d30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+and+Toastmaster+Speaker&center=true&size=24&color=4f3d30&background=f5e6d300&duration=3000&pause=1000)
 
 </div>
